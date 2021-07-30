@@ -1,2 +1,2 @@
 # demo
-Ci/CD Pipline Azure Devops
+Ci/CD Pipeline Azure Devops
